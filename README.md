@@ -3,6 +3,7 @@
 
 使用方法
 在工程build.gradle加入
+
 	allprojects {
 		repositories {
 
