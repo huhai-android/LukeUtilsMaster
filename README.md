@@ -19,13 +19,14 @@ dependencies {
 	}
 
 暂时的工具类集合有
-DateUtil
-DisplayUtil
-FileUtils
-LogUtils
-NetWorkUtils
-PackageUtils
-SDCardUtils
-SpUtils
-ToastUtil
-WindowUtils
+
+DateUtil<br /> 
+DisplayUtil<br /> 
+FileUtils<br /> 
+LogUtils<br /> 
+NetWorkUtils<br /> 
+PackageUtils<br /> 
+SDCardUtils<br /> 
+SpUtils<br /> 
+ToastUtil<br /> 
+WindowUtils<br /> 
