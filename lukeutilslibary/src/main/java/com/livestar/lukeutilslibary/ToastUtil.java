@@ -6,7 +6,7 @@ package com.livestar.lukeutilslibary;
          *  @文件名:   ToastUtil
          *  @创建者:   Administrator
          *  @创建时间:  2018/3/28 11:18
-         *  @描述：    TODO
+         *  @描述：
          */
 
 import android.app.Activity;
