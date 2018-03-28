@@ -17,3 +17,15 @@ dependencies {
 	        compile 'com.github.huhaiAndroid:LukeUtilsMaster:1.1'
 
 	}
+
+暂时的工具类集合有
+DateUtil
+DisplayUtil
+FileUtils
+LogUtils
+NetWorkUtils
+PackageUtils
+SDCardUtils
+SpUtils
+ToastUtil
+WindowUtils
