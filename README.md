@@ -15,18 +15,20 @@
 dependencies {
 
 	        compile 'com.github.huhaiAndroid:LukeUtilsMaster:1.1'
-
-	}
+	
+}
 
 暂时的工具类集合有
 
-DateUtil<br /> 
-DisplayUtil<br /> 
-FileUtils<br /> 
-LogUtils<br /> 
-NetWorkUtils<br /> 
-PackageUtils<br /> 
-SDCardUtils<br /> 
-SpUtils<br /> 
-ToastUtil<br /> 
-WindowUtils<br /> 
+DateUtil时间相关<br /> 
+DisplayUtil屏幕单位换算<br /> 
+FileUtils文件处理相关<br /> 
+LogUtils输出日志<br /> 
+NetWorkUtils网络相关<br /> 
+PackageUtils包相关<br /> 
+SDCardUtils内存卡相关<br /> 
+SpUtils存储相关<br /> 
+ToastUtil吐司相关<br /> 
+WindowUtils获取屏幕宽高<br /> 
+JsonUtil json转换<br /> 
+RegularUtils正则表达式<br /> 
