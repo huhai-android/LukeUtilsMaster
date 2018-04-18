@@ -12,9 +12,15 @@
 	}
 
 在项目build.gradle加入
+
+
+
 dependencies {
-	        compile 'com.github.huhaiAndroid:LukeUtilsMaster:1.2'
-	}
+	       
+	         compile 'com.github.huhaiAndroid:LukeUtilsMaster:1.2'
+	        
+}
+
 
 暂时的工具类集合有
 
